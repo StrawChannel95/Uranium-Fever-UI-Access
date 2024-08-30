@@ -1,0 +1,36 @@
+[
+ {
+    "title": "Uranium Fever",
+    "description": "Uranium Fever is a massive, full-game overhaul of the worlds of Fallout: New Vegas and Fallout 3 featuring comprehensive rebalancing, content expansion, modernization, and revisualization. Focused on a hardcore and compelling gameplay experience, this modlist takes inspiration from top survival-horror games, such as S.T.A.L.K.E.R. and Resident Evil. Every single mod and configuration included in this list was carefully considered by a team of experts in various New Vegas modding domains. As such, very few aspects of the game remain untouched. We consider this the most cohesive, balanced, and mechanically interconnected Tale of Two Wastelands experience. Enjoy!"
+    "author": "Kamchatka & DarkSolarLegend",
+    "maintainers": [
+      "github/Nickchapman3773"
+    ],
+    "game": "falloutnewvegas",
+    "tags": [
+      "Hardcore",
+      "Graphics",
+      "SALVO",
+      "Nevernude"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/StrawChannel95/Uranium-Fever-UI-Access/main/Uranium%20Fever.jpg",
+      "readme": "https://github.com/Nickchapman3773/Uranium-Fever/blob/main/README.md",
+      "download": "{DOWNLOAD LINK}",
+      "machineURL": "uf",
+      "discordURL": "https://discord.gg/4T2cVEjXZH"
+    },
+    "download_metadata": {
+      "Hash": "check meta data",
+      "Size": "check meta data",
+      "NumberOfArchives": "check meta data",
+      "SizeOfArchives": "check meta data",
+      "NumberOfInstalledFiles": "check meta data",
+      "SizeOfInstalledFiles": "check meta data"
+    },
+    "version": "{VERSION NUMBER}"
+  }
+]
